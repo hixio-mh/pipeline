@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/GoogleCloudPlatform/cloud-builders/gcs-fetcher v0.0.0-20191203181535-308b93ad1f39
-	github.com/cloudevents/sdk-go/v2 v2.1.0
+	github.com/cloudevents/sdk-go/v2 v2.15.2
 	github.com/ghodss/yaml v1.0.0
 	github.com/google/go-cmp v0.5.2
 	github.com/google/go-containerregistry v0.1.2
